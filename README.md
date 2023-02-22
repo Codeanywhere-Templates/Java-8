@@ -1,6 +1,6 @@
 This is an example Java 8 project used in Codeanywhere.
 
-[Try it out](https://app.codeanywhere.com/workspace#https://github.com/Codeanywhere-Templates/java-8)
+[Try it out](https://app.codeanywhere.com/workspace/create#https://github.com/Codeanywhere-Templates/java-8)
 
 ### Running the project
 
